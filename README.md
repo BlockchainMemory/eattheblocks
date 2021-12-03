@@ -1,4 +1,4 @@
-# Block1
+# Block2
 # EaTheBlocks
 
 Blockchain tutorials of EatTheBlocks. Learn how to build Decentralized
