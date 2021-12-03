@@ -21,6 +21,7 @@
  const HDWalletProvider = require('@truffle/hdwallet-provider');
 
  // Doxxed Meta 17 0x647f3cdae2bed99ba0295b803a0496d2267c051c8e8960240c6ce158f7f9743f
+ // nothing in this wallet :) 
  const privateKeys = ['0x647f3cdae2bed99ba0295b803a0496d2267c051c8e8960240c6ce158f7f9743f'];
  // const infuraKey = "fj4jll3k.....";
  //
