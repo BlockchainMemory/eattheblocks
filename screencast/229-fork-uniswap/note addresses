@@ -1,3 +1,18 @@
+Ropsten
+
+from core folder
+Factory 0x58E9966892546Ba3C9e5BcE02Fe16504aDB3b519
+Token1  0xE2f15539b4739F44d4bAde4e684D9f2E7Bdf65eF
+Token2  0x9cA9214fb05d69B59D821b7CEE4A838912fE93E5
+
+from periphery folder
+WETH 0x8e8118B16681ff69344DEc15362c0d1f9b145C1C
+UniswapV2Router02 0xA40674a057d21aF6CCC4DEAC2301aCD68C485382
+
+
+
+
+////////////////////////////////////////////////////////////
 local node
 
 from core folder
